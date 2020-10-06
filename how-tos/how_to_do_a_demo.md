@@ -18,7 +18,7 @@ Demo session should take place within five days after Code review was triggered.
 
 The minimum number of attendees for the demo session is one Mentee (presenter) and two mentors (own & other).
 
-Mentee is responsible for scheduling the demo session
+Group coordinator(or Mentor) is responsible for scheduling the demo session
 
 ## Demo Timings
 Recommended time slot for the demo is one hour. Thought in exceptional cases the demo could take more time, up to hour and a half, but not more. It is Mentor's responsibility to orcestrate the demo flow to fit into time frame.
