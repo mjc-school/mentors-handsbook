@@ -24,3 +24,9 @@
 4. What is HATEOAS? Why do we need it?
 5. What are the basic principles and alternatives for Rest Assured?
 6. What type of testing is done with Rest Assured?
+
+## JPA
+
+1. What is the Java Persistence API?
+2. What is the object-relational mapping?
+3. What are the advantages and disadvantages of JPA?
