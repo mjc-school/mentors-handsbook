@@ -30,3 +30,13 @@
 1. What is the Java Persistence API?
 2. What is the object-relational mapping?
 3. What are the advantages and disadvantages of JPA?
+4. What id generation strategies can you name? Can you describe their pros and cons?
+5. What JPA inheritance types can you name? Can you describe them?
+6. What fetch strategies do you know? What is the default? How to reproduce LazyInitializationException?
+7. What cascade types do you know? Is it possible to insert an entity using cascade?
+8. When do we need property orphalRemoval?
+9. What entity states do you know?
+10. What is the difference between methods find vs getReference?
+11. What query types do you know? Can you name their pros and cons?
+12. What propagation types do you know?
+13. Can we update an entity without calling merge method?
