@@ -38,5 +38,4 @@
 9. What entity states do you know?
 10. What is the difference between methods find vs getReference?
 11. What query types do you know? Can you name their pros and cons?
-12. What propagation types do you know?
-13. Can we update an entity without calling merge method?
+12. Can we update an entity without calling merge method?

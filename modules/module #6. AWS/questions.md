@@ -13,6 +13,7 @@
 11. What is AWS VPC? What are the main components of AWS VPC?
 12. How do instances in a VPC access the Internet? What IP types do you know? What will happen with IP during reboot, stop, start?
 13. What is the range of IP addresses in VPC? What is CIDR block?
+14. What is IaaS, SaaS, PaaS? What are other similar abbreviations?
 
 ## Quiz
 ### Cloud
