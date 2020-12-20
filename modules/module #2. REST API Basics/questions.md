@@ -25,7 +25,7 @@
 
 1. What is DB index? How does it work?
 2. Types of keys. Why we need a key?
-3. What is transaction? What is ACID? What is Isolation levels (reading)?
+3. What is transaction? What is ACID? What is Isolation levels (reading)? What propagation types do you know?
 
 ## Java
 
