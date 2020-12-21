@@ -16,6 +16,9 @@
 14. What is IaaS, SaaS, PaaS? What are other similar abbreviations?
 
 ## Quiz
+
+https://docs.google.com/forms/d/e/1FAIpQLScS54hoR_88uch3LuZQoB9nAtbTeRih2UnimqvjAfnXVLoZCw/viewform
+
 ### Cloud
 
 1. What is the cloud  model that gives you access to virtual machines on the OS level
