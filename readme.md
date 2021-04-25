@@ -16,6 +16,7 @@
     + Cover arising open points
     + Advice where necessary 
     + Control the quality of tasks implementation.
++  Communicate with mentee after the demo. Provide (in a voice) the summary feedback from all mentors participated in demo. Convey to the mentee not only what was good on the demo, but also the gaps, especially discuss action items how to resolve these items (these gaps need to be reviewed one more time on the next demo session).
 
 ## Benefits for mentor
 + Develop mentoring and knowledge transfer skills.
